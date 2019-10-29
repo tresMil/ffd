@@ -1,0 +1,652 @@
+#EXTM3U
+
+#EXTINF:-1,*: A&E FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/895.ts
+,
+#EXTINF:-1,*: A&E HD
+http://lindaflor.net:8080/live/silvane2471/teste@/788.ts
+
+#EXTINF:-1,*: A&E SD
+http://lindaflor.net:8080/live/silvane2471/teste@/789.ts
+
+#EXTINF:-1,*: AMC FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/894.ts
+
+#EXTINF:-1,*: AMC HD
+http://lindaflor.net:8080/live/silvane2471/teste@/786.ts
+
+#EXTINF:-1,*: AMC SD
+http://lindaflor.net:8080/live/silvane2471/teste@/787.ts
+
+#EXTINF:-1,*: AXN FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/892.ts
+
+#EXTINF:-1,*: AXN HD
+http://lindaflor.net:8080/live/silvane2471/teste@/781.ts
+
+#EXTINF:-1,*: AXN SD
+http://lindaflor.net:8080/live/silvane2471/teste@/782.ts
+
+#EXTINF:-1,*: Animal Planet FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/893.ts
+
+#EXTINF:-1,*: Animal Planet HD
+http://lindaflor.net:8080/live/silvane2471/teste@/785.ts
+
+#EXTINF:-1,*: Animal Planet SD
+http://lindaflor.net:8080/live/silvane2471/teste@/784.ts
+
+#EXTINF:-1,*: Arte 1 SD
+http://lindaflor.net:8080/live/silvane2471/teste@/783.ts
+
+#EXTINF:-1,*: BIS FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/888.ts
+
+#EXTINF:-1,*: BIS HD
+http://lindaflor.net:8080/live/silvane2471/teste@/772.ts
+
+#EXTINF:-1,*: BIS SD
+http://lindaflor.net:8080/live/silvane2471/teste@/773.ts
+
+#EXTINF:-1,*: Baby TV SD
+http://lindaflor.net:8080/live/silvane2471/teste@/780.ts
+
+#EXTINF:-1,*: Boomerang FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/887.ts
+
+#EXTINF:-1,*: Boomerang SD
+http://lindaflor.net:8080/live/silvane2471/teste@/771.ts
+
+#EXTINF:-1,*: Canal Brasil FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/886.ts
+
+#EXTINF:-1,*: Canal Brasil SD
+http://lindaflor.net:8080/live/silvane2471/teste@/769.ts
+
+#EXTINF:-1,*: Canal Sony FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/885.ts
+
+#EXTINF:-1,*: Canal Sony HD
+http://lindaflor.net:8080/live/silvane2471/teste@/770.ts
+
+#EXTINF:-1,*: Canal Sony SD
+http://lindaflor.net:8080/live/silvane2471/teste@/767.ts
+
+#EXTINF:-1,*: Cartoon Network FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/884.ts
+
+#EXTINF:-1,*: Cartoon Network HD
+http://lindaflor.net:8080/live/silvane2471/teste@/765.ts
+
+#EXTINF:-1,*: Cartoon Network SD
+http://lindaflor.net:8080/live/silvane2471/teste@/764.ts
+
+#EXTINF:-1,*: Cinemax FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/883.ts
+
+#EXTINF:-1,*: Cinemax HD
+http://lindaflor.net:8080/live/silvane2471/teste@/762.ts
+
+#EXTINF:-1,*: Cinemax SD
+http://lindaflor.net:8080/live/silvane2471/teste@/763.ts
+
+#EXTINF:-1,*: Combate FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/882.ts
+
+#EXTINF:-1,*: Combate HD
+http://lindaflor.net:8080/live/silvane2471/teste@/760.ts
+
+#EXTINF:-1,*: Combate SD
+http://lindaflor.net:8080/live/silvane2471/teste@/761.ts
+
+#EXTINF:-1,*: Comedy Central FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/881.ts
+
+#EXTINF:-1,*: Comedy Central HD
+http://lindaflor.net:8080/live/silvane2471/teste@/759.ts
+
+#EXTINF:-1,*: Comedy Central SD
+http://lindaflor.net:8080/live/silvane2471/teste@/758.ts
+
+#EXTINF:-1,*: Curta ! SD
+http://lindaflor.net:8080/live/silvane2471/teste@/757.ts
+
+#EXTINF:-1,*: Dazn HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1099.ts
+
+#EXTINF:-1,*: Discovery Channel FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/879.ts
+
+#EXTINF:-1,*: Discovery Channel HD
+http://lindaflor.net:8080/live/silvane2471/teste@/755.ts
+
+#EXTINF:-1,*: Discovery Channel SD
+http://lindaflor.net:8080/live/silvane2471/teste@/748.ts
+
+#EXTINF:-1,*: Discovery Civilization FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/878.ts
+
+#EXTINF:-1,*: Discovery Civilization HD
+http://lindaflor.net:8080/live/silvane2471/teste@/754.ts
+
+#EXTINF:-1,*: Discovery Home H&H FULL HD
+http://lindaflor.net:8080/live/silvane2471/teste@/880.ts
+
+#EXTINF:-1,*: Discovery Home H&H HD
+http://lindaflor.net:8080/live/silvane2471/teste@/756.ts
+
+#EXTINF:-1,*: Discovery Home H&H SD
+http://lindaflor.net:8080/live/silvane2471/teste@/747.ts
+
+#EXTINF:-1,*: Discovery Kids FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/877.ts
+
+#EXTINF:-1,*: Discovery Kids HD
+http://lindaflor.net:8080/live/silvane2471/teste@/753.ts
+
+#EXTINF:-1,*: Discovery Kids SD
+http://lindaflor.net:8080/live/silvane2471/teste@/746.ts
+
+#EXTINF:-1,*: Discovery Science FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/876.ts
+
+#EXTINF:-1,*: Discovery Science HD
+http://lindaflor.net:8080/live/silvane2471/teste@/752.ts
+
+#EXTINF:-1,*: Discovery Theater FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/875.ts
+
+#EXTINF:-1,*: Discovery Theater HD
+http://lindaflor.net:8080/live/silvane2471/teste@/751.ts
+
+#EXTINF:-1,*: Discovery Turbo FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/874.ts
+
+#EXTINF:-1,*: Discovery Turbo HD
+http://lindaflor.net:8080/live/silvane2471/teste@/750.ts
+
+#EXTINF:-1,*: Discovery Turbo SD
+http://lindaflor.net:8080/live/silvane2471/teste@/745.ts
+
+#EXTINF:-1,*: Discovery World HD
+http://lindaflor.net:8080/live/silvane2471/teste@/749.ts
+
+#EXTINF:-1,*: Disney Channel FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/873.ts
+
+#EXTINF:-1,*: Disney Channel HD
+http://lindaflor.net:8080/live/silvane2471/teste@/743.ts
+
+#EXTINF:-1,*: Disney Channel SD
+http://lindaflor.net:8080/live/silvane2471/teste@/744.ts
+
+#EXTINF:-1,*: Disney Junior FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/872.ts
+
+#EXTINF:-1,*: Disney Junior HD
+http://lindaflor.net:8080/live/silvane2471/teste@/742.ts
+
+#EXTINF:-1,*: Disney Junior SD
+http://lindaflor.net:8080/live/silvane2471/teste@/741.ts
+
+#EXTINF:-1,*: Disney XD SD
+http://lindaflor.net:8080/live/silvane2471/teste@/740.ts
+
+#EXTINF:-1,*: E! FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/867.ts
+
+#EXTINF:-1,*: E! HD
+http://lindaflor.net:8080/live/silvane2471/teste@/739.ts
+
+#EXTINF:-1,*: E! SD
+http://lindaflor.net:8080/live/silvane2471/teste@/738.ts
+
+#EXTINF:-1,*: FX FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/859.ts
+
+#EXTINF:-1,*: FX HD
+http://lindaflor.net:8080/live/silvane2471/teste@/711.ts
+
+#EXTINF:-1,*: FX SD
+http://lindaflor.net:8080/live/silvane2471/teste@/712.ts
+
+#EXTINF:-1,*: Film & Arts SD
+http://lindaflor.net:8080/live/silvane2471/teste@/727.ts
+
+#EXTINF:-1,*: Fish TV FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/864.ts
+
+#EXTINF:-1,*: Fish TV SD
+http://lindaflor.net:8080/live/silvane2471/teste@/726.ts
+
+#EXTINF:-1,*: Food Network FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/863.ts
+
+#EXTINF:-1,*: Food Network HD
+http://lindaflor.net:8080/live/silvane2471/teste@/724.ts
+
+#EXTINF:-1,*: Food Network SD
+http://lindaflor.net:8080/live/silvane2471/teste@/725.ts
+
+#EXTINF:-1,*: Fox FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/862.ts
+
+#EXTINF:-1,*: Fox HD
+http://lindaflor.net:8080/live/silvane2471/teste@/722.ts
+
+#EXTINF:-1,*: Fox Life HD
+http://lindaflor.net:8080/live/silvane2471/teste@/720.ts
+
+#EXTINF:-1,*: Fox Life SD
+http://lindaflor.net:8080/live/silvane2471/teste@/721.ts
+
+#EXTINF:-1,*: Fox Premium 1 FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/1107.ts
+
+#EXTINF:-1,*: Fox Premium 1 HD
+http://lindaflor.net:8080/live/silvane2471/teste@/719.ts
+
+#EXTINF:-1,*: Fox Premium 2 FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/1106.ts
+
+#EXTINF:-1,*: Fox Premium 2 HD
+http://lindaflor.net:8080/live/silvane2471/teste@/718.ts
+
+#EXTINF:-1,*: Fox SD
+http://lindaflor.net:8080/live/silvane2471/teste@/723.ts
+
+#EXTINF:-1,*: GNT FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/856.ts
+
+#EXTINF:-1,*: GNT HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1052.ts
+
+#EXTINF:-1,*: GNT SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1053.ts
+
+#EXTINF:-1,*: Gloob FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/857.ts
+
+#EXTINF:-1,*: Gloob HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1054.ts
+
+#EXTINF:-1,*: Gloob SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1055.ts
+
+#EXTINF:-1,*: H2 FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/850.ts
+
+#EXTINF:-1,*: H2 HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1040.ts
+
+#EXTINF:-1,*: H2 SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1041.ts
+
+#EXTINF:-1,*: HBO 2 FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/855.ts
+
+#EXTINF:-1,*: HBO 2 HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1050.ts
+
+#EXTINF:-1,*: HBO 2 SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1042.ts
+
+#EXTINF:-1,*: HBO FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/853.ts
+
+#EXTINF:-1,*: HBO Family FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/854.ts
+
+#EXTINF:-1,*: HBO Family HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1048.ts
+
+#EXTINF:-1,*: HBO Family SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1049.ts
+
+#EXTINF:-1,*: HBO HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1047.ts
+
+#EXTINF:-1,*: HBO Plus FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/852.ts
+
+#EXTINF:-1,*: HBO Plus HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1045.ts
+
+#EXTINF:-1,*: HBO Plus SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1046.ts
+
+#EXTINF:-1,*: HBO SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1051.ts
+
+#EXTINF:-1,*: HBO Signature FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/851.ts
+
+#EXTINF:-1,*: HBO Signature HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1043.ts
+
+#EXTINF:-1,*: HBO Signature SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1044.ts
+
+#EXTINF:-1,*: ID - Investigacao Discovery FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/848.ts
+
+#EXTINF:-1,*: ID - Investigacao Discovery HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1037.ts
+
+#EXTINF:-1,*: ID - Investigacao Discovery SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1038.ts
+
+#EXTINF:-1,*: Lifetime FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/847.ts
+
+#EXTINF:-1,*: Lifetime HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1034.ts
+
+#EXTINF:-1,*: Lifetime SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1035.ts
+
+#EXTINF:-1,*: MAX Prime FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/844.ts
+
+#EXTINF:-1,*: MAX Prime HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1029.ts
+
+#EXTINF:-1,*: MAX Prime SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1030.ts
+
+#EXTINF:-1,*: MAX UP FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/843.ts
+
+#EXTINF:-1,*: MAX UP HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1027.ts
+
+#EXTINF:-1,*: MAX UP SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1028.ts
+
+#EXTINF:-1,*: MTV FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/841.ts
+
+#EXTINF:-1,*: MTV HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1022.ts
+
+#EXTINF:-1,*: MTV SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1023.ts
+
+#EXTINF:-1,*: Max FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/845.ts
+
+#EXTINF:-1,*: Max HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1031.ts
+
+#EXTINF:-1,*: Max SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1032.ts
+
+#EXTINF:-1,*: Megapix FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/842.ts
+
+#EXTINF:-1,*: Megapix HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1025.ts
+
+#EXTINF:-1,*: Megapix SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1026.ts
+
+#EXTINF:-1,*: Multishow FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/840.ts
+
+#EXTINF:-1,*: Multishow HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1020.ts
+
+#EXTINF:-1,*: Multishow SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1021.ts
+
+#EXTINF:-1,*: Music Box Brazil SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1019.ts
+
+#EXTINF:-1,*: NHK SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1012.ts
+
+#EXTINF:-1,*: NatGeo Kids FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/838.ts
+
+#EXTINF:-1,*: NatGeo Kids HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1017.ts
+
+#EXTINF:-1,*: NatGeo Kids SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1015.ts
+
+#EXTINF:-1,*: NatGeo Wild FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/837.ts
+
+#EXTINF:-1,*: NatGeo Wild HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1016.ts
+
+#EXTINF:-1,*: NatGeo Wild SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1014.ts
+
+#EXTINF:-1,*: National Geographic FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/839.ts
+
+#EXTINF:-1,*: National Geographic HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1018.ts
+
+#EXTINF:-1,*: National Geographic SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1013.ts
+
+#EXTINF:-1,*: Nick.Jr HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1008.ts
+
+#EXTINF:-1,*: Nick.Jr SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1011.ts
+
+#EXTINF:-1,*: Nickelodeon FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/836.ts
+
+#EXTINF:-1,*: Nickelodeon HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1009.ts
+
+#EXTINF:-1,*: Nickelodeon SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1010.ts
+
+#EXTINF:-1,*: OFF FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/835.ts
+
+#EXTINF:-1,*: OFF HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1006.ts
+
+#EXTINF:-1,*: OFF SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1007.ts
+
+#EXTINF:-1,*: Paramount FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/834.ts
+
+#EXTINF:-1,*: Paramount HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1004.ts
+
+#EXTINF:-1,*: Paramount SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1005.ts
+
+#EXTINF:-1,*: Play kids SD
+http://lindaflor.net:8080/live/silvane2471/teste@/833.ts
+
+#EXTINF:-1,*: PlayTV SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1002.ts
+
+#EXTINF:-1,*: Polishop TV SD
+http://lindaflor.net:8080/live/silvane2471/teste@/1001.ts
+
+#EXTINF:-1,*: Space FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/821.ts
+
+#EXTINF:-1,*: Space HD
+http://lindaflor.net:8080/live/silvane2471/teste@/963.ts
+
+#EXTINF:-1,*: Space SD
+http://lindaflor.net:8080/live/silvane2471/teste@/964.ts
+
+#EXTINF:-1,*: Studio Universal FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/817.ts
+
+#EXTINF:-1,*: Studio Universal HD
+http://lindaflor.net:8080/live/silvane2471/teste@/956.ts
+
+#EXTINF:-1,*: Studio Universal SD
+http://lindaflor.net:8080/live/silvane2471/teste@/957.ts
+
+#EXTINF:-1,*: Syfy FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/816.ts
+
+#EXTINF:-1,*: Syfy HD
+http://lindaflor.net:8080/live/silvane2471/teste@/954.ts
+
+#EXTINF:-1,*: Syfy SD
+http://lindaflor.net:8080/live/silvane2471/teste@/955.ts
+
+#EXTINF:-1,*: TBS FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/815.ts
+
+#EXTINF:-1,*: TBS HD
+http://lindaflor.net:8080/live/silvane2471/teste@/952.ts
+
+#EXTINF:-1,*: TBS SD
+http://lindaflor.net:8080/live/silvane2471/teste@/953.ts
+
+#EXTINF:-1,*: TCM SD
+http://lindaflor.net:8080/live/silvane2471/teste@/951.ts
+
+#EXTINF:-1,*: TLC FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/808.ts
+
+#EXTINF:-1,*: TLC HD
+http://lindaflor.net:8080/live/silvane2471/teste@/935.ts
+
+#EXTINF:-1,*: TLC SD
+http://lindaflor.net:8080/live/silvane2471/teste@/936.ts
+
+#EXTINF:-1,*: TNT FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/807.ts
+
+#EXTINF:-1,*: TNT HD
+http://lindaflor.net:8080/live/silvane2471/teste@/933.ts
+
+#EXTINF:-1,*: TNT SD
+http://lindaflor.net:8080/live/silvane2471/teste@/934.ts
+
+#EXTINF:-1,*: TNT Series FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/806.ts
+
+#EXTINF:-1,*: TNT Series HD
+http://lindaflor.net:8080/live/silvane2471/teste@/931.ts
+
+#EXTINF:-1,*: TNT Series SD
+http://lindaflor.net:8080/live/silvane2471/teste@/932.ts
+
+#EXTINF:-1,*: Telecine Action FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/814.ts
+
+#EXTINF:-1,*: Telecine Action HD
+http://lindaflor.net:8080/live/silvane2471/teste@/949.ts
+
+#EXTINF:-1,*: Telecine Action SD
+http://lindaflor.net:8080/live/silvane2471/teste@/950.ts
+
+#EXTINF:-1,*: Telecine Cult FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/813.ts
+
+#EXTINF:-1,*: Telecine Cult HD
+http://lindaflor.net:8080/live/silvane2471/teste@/947.ts
+
+#EXTINF:-1,*: Telecine Cult SD
+http://lindaflor.net:8080/live/silvane2471/teste@/948.ts
+
+#EXTINF:-1,*: Telecine Fun FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/812.ts
+
+#EXTINF:-1,*: Telecine Fun HD
+http://lindaflor.net:8080/live/silvane2471/teste@/945.ts
+
+#EXTINF:-1,*: Telecine Fun SD
+http://lindaflor.net:8080/live/silvane2471/teste@/946.ts
+
+#EXTINF:-1,*: Telecine Pipoca FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/811.ts
+
+#EXTINF:-1,*: Telecine Pipoca HD
+http://lindaflor.net:8080/live/silvane2471/teste@/943.ts
+
+#EXTINF:-1,*: Telecine Pipoca SD
+http://lindaflor.net:8080/live/silvane2471/teste@/944.ts
+
+#EXTINF:-1,*: Telecine Premium FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/810.ts
+
+#EXTINF:-1,*: Telecine Premium HD
+http://lindaflor.net:8080/live/silvane2471/teste@/941.ts
+
+#EXTINF:-1,*: Telecine Premium SD
+http://lindaflor.net:8080/live/silvane2471/teste@/942.ts
+
+#EXTINF:-1,*: Telecine Touch FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/809.ts
+
+#EXTINF:-1,*: Telecine Touch HD
+http://lindaflor.net:8080/live/silvane2471/teste@/939.ts
+
+#EXTINF:-1,*: Telecine Touch SD
+http://lindaflor.net:8080/live/silvane2471/teste@/940.ts
+
+#EXTINF:-1,*: The History Channel FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/849.ts
+
+#EXTINF:-1,*: The History Channel HD
+http://lindaflor.net:8080/live/silvane2471/teste@/1039.ts
+
+#EXTINF:-1,*: The History Channel SD
+http://lindaflor.net:8080/live/silvane2471/teste@/937.ts
+
+#EXTINF:-1,*: Tooncast SD
+http://lindaflor.net:8080/live/silvane2471/teste@/930.ts
+
+#EXTINF:-1,*: TruTV SD
+http://lindaflor.net:8080/live/silvane2471/teste@/929.ts
+
+#EXTINF:-1,*: Universal Channel TV FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/804.ts
+
+#EXTINF:-1,*: Universal Channel TV HD
+http://lindaflor.net:8080/live/silvane2471/teste@/904.ts
+
+#EXTINF:-1,*: Universal Channel TV SD
+http://lindaflor.net:8080/live/silvane2471/teste@/905.ts
+
+#EXTINF:-1,*: VH1 FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/803.ts
+
+#EXTINF:-1,*: VH1 HD
+http://lindaflor.net:8080/live/silvane2471/teste@/903.ts
+
+#EXTINF:-1,*: VH1 Megahits SD
+http://lindaflor.net:8080/live/silvane2471/teste@/902.ts
+
+#EXTINF:-1,*: Viva HD
+http://lindaflor.net:8080/live/silvane2471/teste@/900.ts
+
+#EXTINF:-1,*: Viva SD
+http://lindaflor.net:8080/live/silvane2471/teste@/901.ts
+
+#EXTINF:-1,*: Warner Channel FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/802.ts
+
+#EXTINF:-1,*: Warner Channel HD
+http://lindaflor.net:8080/live/silvane2471/teste@/898.ts
+
+#EXTINF:-1,*: Warner Channel SD
+http://lindaflor.net:8080/live/silvane2471/teste@/899.ts
+
+#EXTINF:-1,*: Woohoo FHD
+http://lindaflor.net:8080/live/silvane2471/teste@/801.ts
+
+#EXTINF:-1,*: Woohoo SD
+http://lindaflor.net:8080/live/silvane2471/teste@/897.ts
+
+#EXTINF:-1,*: ZooMoo SD
+http://lindaflor.net:8080/live/silvane2471/teste@/896.ts
